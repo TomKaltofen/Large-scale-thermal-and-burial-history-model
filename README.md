@@ -1,6 +1,5 @@
-# Thermal and burial history-model of the Southern Permian Basin
-Here are results and small code pieces shown of my master's thesis. 
+# Thermal and burial history model of the Southern Permian Basin
 
-The two JPG show examplary results of this model.
+In this repository, only small chunks of the model code are presented. However, two JPG file show some example results such as temperature (3 km depth) and vitrinite reflectance (Upper Rotliegend). If you want to see more of this model, contact me or listen to my presentation at the conference STC 2017 in Celle. 
 
-Unfortunately, I am not able to publish the changed version of the original model of pybasin. The  author of the original pybasin shows a version with the calculation of the swiss molasse basin: "https://bitbucket.org/elcopone/pybasin".
+However, the author of the original pybasin, on which this model is based on, shows a version with the calculation of the swiss molasse basin: "https://bitbucket.org/elcopone/pybasin".
