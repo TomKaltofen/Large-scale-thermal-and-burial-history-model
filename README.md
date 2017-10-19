@@ -4,4 +4,4 @@ An estimation of temperature in 3 km depth and vitrinite reflectance data of Upp
 
 If you want to get a better idea for the properties of such a model, have a look into the small chunks of model code. Alternatively, contact me or listen to my presentation at the conference STC 2017 in Celle. 
 
-Tthe author of the original pybasin model, on which this model is based on, shows a version with the calculation of the swiss molasse basin: "https://bitbucket.org/elcopone/pybasin".
+The author of the original pybasin model, on which this model is based on, shows a version with the calculation of the swiss molasse basin: "https://bitbucket.org/elcopone/pybasin".
